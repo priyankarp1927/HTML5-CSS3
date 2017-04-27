@@ -1,0 +1,147 @@
+/* body */
+.body
+{
+    background: url("../img/rp.jpg") center fixed;
+    background-repeat: x-repeat;
+    background-size: cover;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+/* 960 image */
+.pr
+{
+	    background: url("../img/bg.jpg") center fixed;
+}
+/* between line*/
+.pad
+{
+	padding-top: 20px;
+}
+/* header*/
+.head
+{
+	background-color:#ffccff;
+	position:relative;
+	position:fixed;
+	z-index:2;
+}
+/* logo image */
+.logo
+{
+	width: 170px;
+	height: 150px;
+}
+/* h1 heading */
+h1{
+	float: left;
+	text-align:center;
+	font-size:35px;
+	margin-top:25px;
+	color: black;
+	font-family:Pacifico;
+}
+/* paragraph */
+.name{
+	font-size:20px;
+	color:black;
+	text-align:center;
+	font-weight:bold;
+}
+/* online image */
+.online
+{
+	width:100px;
+	height:100px;
+}
+/* onover text */
+.onover
+{
+	font-size: 25px;
+}
+/* anchor */
+a
+{
+	color: ;
+}
+/* link hover */
+a:hover
+{
+	text-decoration:none;
+	color:yellow;
+}
+/* list */
+a,li{
+	display:inline;
+	font-family:Atomic Age;
+}
+/* navigatiom */
+nav
+{
+	text-align:right;
+	display:inline;
+	font-family:Atomic Age;
+
+}
+/* alignment */
+a,li
+{
+	text-decoration:none;
+	padding:10px;
+	position:relative;
+	font-size:18px;
+	margin-bottom:5px;
+}
+/* main image */
+.main
+{
+	width:100%;
+	clear: both;
+	margin-top:50px;
+	height:300px;
+}
+/* h2 heading */
+h2
+{
+	color: white;
+	font-size: 20px;
+	font-family: Caesar Dressing;
+}
+/* third row */
+.three
+{
+	width: 300px;
+	height: 200px;
+}
+/* three row para */
+.par
+{
+	font-family: Dancing Script;
+	color: white;
+	 font-weight: 700;
+}
+/* fourth row */
+.six
+{
+	width: 400px;
+	height: 300px;
+}
+/* fourth row para */
+.par3
+{
+	font-size: 17px;
+	color: white;
+	font-family: Sofia;
+	/*font-weight: 800;*/
+}
+/* footer */
+.center
+{
+	font-family: Chewy;
+	color: white;
+}
+/* footer  */
+.flower
+{
+	font-size: 20px;
+}
